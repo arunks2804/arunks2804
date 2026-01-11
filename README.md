@@ -11,21 +11,7 @@ matter.
 ## 🔍 Focus Areas
 
 - AI & ML systems across domains:
-  - Video and sensor analytics
-  - Predictive modeling and forecasting
-  - NLP search, semantic retrieval, and knowledge graphs
-  - Recommender systems and sentiment analysis
-  - Conversational AI and compliance automation
-  - Knowledge graphs, semantic and vector search, RAG-based workflows,
-    LLM evaluation, and guardrails
-
 - Scientific and statistical modeling for real-world signals:
-  - Scale-space analysis and Gaussian peak detection
-  - Gaussian and inverse Gaussian plume modeling
-  - Back-trajectory analysis and source attribution
-  - Leak detection and event characterization
-  - Probabilistic and uncertainty-aware modeling
-
 - Data platforms, analytics architectures, and cloud-native systems
 - AI-powered automation and decision-support workflows
 - Developer platforms, APIs, **iPaaS**, internal tooling, and platform automation
