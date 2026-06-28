@@ -1,63 +1,29 @@
 # Arun Srinivas
 
-Senior product leader building B2B SaaS, AI, data, analytics, and developer platforms.
+### **Senior Product Leader — AI, Data, and Developer Platforms**
 
-I work at the intersection of product strategy, cloud platforms, and applied AI—focused on
-real-world systems where scalability, explainability, security, and operational constraints
-matter.
-
----
-
-## 🔍 Focus Areas
-
-- AI & ML systems across domains:
-- Scientific and statistical modeling for real-world signals:
-- Data platforms, analytics architectures, and cloud-native systems
-- AI-powered automation and decision-support workflows
-- Developer platforms, APIs, **iPaaS**, internal tooling, and platform automation
+Product leader with **21 years of experience** across established 
+companies and startups. Led **product teams for 6 years** across 
+global **B2B SaaS, AI, data, analytics, and developer platforms** — 
+including **internal platforms, iPaaS, and API as a Service.**
 
 ---
 
-## 🧪 Work on This GitHub
+### This GitHub hosts personal explorations in:
 
-This GitHub hosts **personal and exploratory work**, including:
-- AI and ML experiments and prototypes
-- Scientific computing and signal-processing explorations
-- Cloud and data platform reference architectures
-- AI system design patterns (RAG, LLMOps, observability, governance)
-- Product, platform, and architecture explorations
-
-> Professional and proprietary work is intentionally excluded.
-
----
-
-## 🧠 AI, Data & Platform Architecture Interests
-
-- Kubernetes-based AI and data platforms
-- Knowledge graph–driven and hybrid vector search systems
-- Feature stores, experiment tracking, and ML/LLMOps
-- Secure, observable, and governable AI systems
-- Platform abstractions that enable scale, automation, and developer velocity
+→ **AI agents, LLMs, RAG,** and agentic workflows  
+→ **MCP tooling** and developer platform automation  
+→ **Knowledge graphs** and hybrid search architectures  
+→ **Computer vision** — CNNs, depth estimation, image processing  
+→ **NLP** — text classification, NER, summarisation, transformers  
+→ **Recommendation systems** — collaborative filtering, hybrid approaches  
+→ **Time series** — forecasting, anomaly detection, sensor data  
+→ **Scientific computing** — vector fields, numerical methods, signal processing  
+→ **Generative AI** — diffusion models, image generation, synthetic data  
+→ **MLOps and LLMOps** — experiment tracking, evaluation, observability  
+→ **Cloud-native data platforms** and architectures  
+→ **Product and system design briefs** for AI products  
 
 ---
 
-## 📐 Product & System Thinking
-
-- Personal PRDs for AI, data, and platform products
-- System and platform design explorations
-- UX and workflow concepts focused on clarity, trust, and explainability
-- Trade-offs between automation, control, and human-in-the-loop design
-
----
-
-## 🔗 External Work (links coming soon)
-
-- 📓 Google Colab — notebooks & experiments
-- 📊 Kaggle — datasets & competitions
-- 🤗 Hugging Face — models & demos
-
----
-
-## 📌 Featured Projects
-
-Selected repositories will be pinned here as work is added.
+*Professional and proprietary work is intentionally excluded.*
